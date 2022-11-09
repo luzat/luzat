@@ -6,5 +6,5 @@ You can find me at:
 
 - [🕸️ WWW / **luzat.com**](https://luzat.com/)
 - [🐙 GitHub / **@luzat**](https://github.com/luzat)
-- <a rel="me" href="https://infosec.exchange/@luzat">🐘 Mastodon / <b>@luzat@infosec.exchange</b></a>
+- <a rel="me" href="https://infosec.exchange/@luzat">🐘 Mastodon / <b>@luzat<span>@</span>infosec.exchange</b></a>
 - [🐦 Twitter / **@tluzat**](https://twitter.com/tluzat)
