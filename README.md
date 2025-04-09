@@ -7,4 +7,4 @@ You can find me at:
 - [🕸️ WWW / **luzat.com**](https://luzat.com/)
 - [🐙 GitHub / **@luzat**](https://github.com/luzat)
 - <a rel="nofollow me" href="https://infosec.exchange/@luzat">🐘 Mastodon / <b>@luzat<span>@</span>infosec.exchange</b></a>
-- [🐦 Twitter / **@tluzat**](https://twitter.com/tluzat)
+- <del>[🐦 X / **@tluzat**](https://x.com/tluzat)</del>; ignore that one.
