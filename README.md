@@ -16,5 +16,6 @@ If my work helped you or brought you joy, consider supporting my work:
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/luzat) – one-time or monthly support
 - 💛 [Ko-fi](https://ko-fi.com/luzat) – one-time or monthly support
 - 💸 [PayPal.me](https://paypal.me/TLuzat) – direct donation via PayPal
+- ₿ <a href="bitcoin:bc1qu442eavs56v23glxnm7wg2jd23jdprc6cvd5p9?label=Donation&message=Thanks%20for%20your%20support!">Bitcoin</a> to `bc1qu442eavs56v23glxnm7wg2jd23jdprc6cvd5p9`
 
 Your contribution helps cover development time, maintenance, and hosting.
